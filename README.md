@@ -1,4 +1,5 @@
 # Alurabook - Praticando HTML e CSS com responsividade.
+![image](https://user-images.githubusercontent.com/104791748/217087041-bdcded3e-f5c6-4d7b-94f8-79382c89d15d.png)
 
 
 + 🗒 Descrição do seu projeto
